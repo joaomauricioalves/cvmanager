@@ -6,9 +6,9 @@ This Python application allows users to create a personalized PDF version of the
 Features:
 User Authentication: Secure login with username and password.
 PDF Generation: Allows users to generate a PDF of their CV with custom data.
-Database Integration: Stores user data (personal information, education, work experience) in MySQL or PostgreSQL.
+Database Integration: Stores user data (personal information, education, work experience) in MySQL.
 Customizable Templates: Provides the ability to design and update your CV template in a flexible way.
 Technologies Used:
 Python: Core language for developing the application.
-MySQL/PostgreSQL: Databases for storing user data securely.
+MySQL: Databases for storing user data securely.
 Fpdf/ReportLab: Libraries for generating PDFs.
